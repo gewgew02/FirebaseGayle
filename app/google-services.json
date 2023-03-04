@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432919806887",
+    "project_id": "fir-gayle",
+    "storage_bucket": "fir-gayle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432919806887:android:3659dfb18fcdc956e1ac82",
+        "android_client_info": {
+          "package_name": "com.example.firebasegayle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432919806887-12fgb3tkt88h7us9vkm490gkma0ssilt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAce-KGci9ERFuEMTdN0YGsI6fvGxj_ssg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432919806887-12fgb3tkt88h7us9vkm490gkma0ssilt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
